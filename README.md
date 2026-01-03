@@ -77,16 +77,6 @@
 - Built Shopify e-commerce platform
 - Implemented dynamic catalogs, filtering & payment simulation
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JenilHP29&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JenilHP29&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 - 📧 Email: **jenilhp54@gmail.com**
